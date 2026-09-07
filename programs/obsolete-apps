@@ -20,7 +20,6 @@ anavis 2022
 android-messages-desktop 2019
 animos 2023
 aniship 2023
-another-redis-desktop-manager 2024
 ant-downloader 2019
 antidot 2022
 aphelion-wallet 2019
@@ -90,12 +89,10 @@ boilr 2024
 book-manager 2019
 bookmarks-manager 2021
 boost-note 2021
-botclient 2024
 botframework-emulator 2024
 bottlebats 2018
 boxxy 2024
 brainverse 2018
-brainwaves 2021
 bread 2022
 bscanfftwebcam 2020
 bts-ce-lite 2020
@@ -216,7 +213,6 @@ ecency-surfer 2024
 edex-ui 2021
 eget 2024
 ehdev-shell 2018
-eka2l1 2024
 eksplode.re 2020
 elcalc 2019
 eldumper 2019
@@ -254,7 +250,6 @@ evoplex 2018
 excel-parser-processor 2022
 exe 2024
 exeqt 2018
-exifcleaner 2021
 eximchain-wallet 2019
 exportoo 2019
 exsplode.re 2020
@@ -302,7 +297,6 @@ fromscratch 2019
 frontimer 2023
 fspy 2020
 fukayo 2023
-gameconqueror 2024
 gamehub 2023
 ganache 2023
 gaucho 2022
@@ -324,7 +318,6 @@ gingko 2020
 githoard 2020
 gitjournal 2021
 gitlight 2024
-gitnote 2019
 gitql 2023
 gl-warp2mp4 2020
 gltf-insight 2019
@@ -332,8 +325,6 @@ glulxe 2018
 glyphr-studio-desktop 2024
 gm-companion 2024
 gncdu 2023
-go-pd 2024
-go-pd-gui 2024
 go-spotify-cli 2024
 godmode 2023
 goldendict 2023
@@ -354,7 +345,6 @@ grinplusplus 2024
 gron 2022
 gron.awk 2023
 groot 2019
-gsequencer 2024
 gsubs 2020
 guiscrcpy 2023
 gxc-smart-contract-ide 2019
@@ -368,7 +358,6 @@ henson 2024
 hermesmessenger 2019
 hexoclient 2020
 hexoeditor 2018
-hide.me 2024
 hidpi-fixer 2023
 hilbish 2024
 houdoku 2024
@@ -389,7 +378,6 @@ iagoncloudapp 2023
 igdm 2022
 iheartradio-webapp 2021
 imagemosaicwall 2020
-imagine 2023
 imapsyncclient 2020
 impact 2018
 impposter 2019
@@ -397,7 +385,6 @@ inboxer 2019
 infection-monkey 2023
 infinitex 2018
 insight 2022
-insomnium 2024
 instead 2024
 intiface 2022
 invoice-generator 2018
@@ -458,7 +445,6 @@ linux-intel-undervolt-gui 2019
 lisk-desktop 2024
 listen.moe 2020
 liveme-pro-tools 2021
-lmms 2021
 local-browser 2019
 lofi 2024
 loginized 2020
@@ -495,7 +481,6 @@ mediaelch 2024
 mellowplayer 2018
 melodie 2022
 memocast 2022
-menyoki 2023
 meow-sql 2024
 mercury 2024
 meta-grabber 2023
@@ -523,11 +508,9 @@ monit 2023
 moniteur-admin 2020
 monokle 2024
 mood-fi 2024
-moolticute 2024
 moonlight 2024
 moonplayer 2023
 moose 2020
-motrix 2023
 movie-monad 2018
 mp3-tagger 2022
 mp4grep 2023
@@ -624,7 +607,6 @@ p2p-chat 2018
 p2pderivatives 2022
 paclear 2023
 padloc 2023
-panini 2023
 paper 2018
 parallelcoin 2021
 parchment 2023
@@ -665,7 +647,6 @@ pingu 2023
 pixfetch 2022
 pixsrt 2018
 plagpatrol 2021
-planet-blupi 2024
 platinum-md 2022
 playbox 2019
 playme 2018
@@ -744,7 +725,6 @@ rebaslight 2023
 record-compare 2019
 recordscript 2024
 redeclipse 2019
-redis-gui 2023
 remind-me-again 2023
 retroshare 2024
 revealgo 2022
@@ -801,7 +781,6 @@ simdsp 2018
 simple-s3-uploader 2020
 simple-timer 2020
 simplechroot 2019
-simpleos 2020
 simplest-file-renamer 2020
 singlebox 2020
 sinon 2021
@@ -814,7 +793,6 @@ slogidex 2023
 smartservogui 2018
 smath-studio 2021
 smf-dsp 2021
-smuview 2023
 snake-js 2020
 snapclear 2024
 snapshot-slider 2022
@@ -842,7 +820,6 @@ spyglass 2024
 squirrel-disk 2023
 srb2k 2023
 stash-electron 2023
-station 2024
 statuspilatus 2019
 steam-tui 2024
 steamcad 2020
@@ -890,7 +867,6 @@ teledrive 2020
 tere 2024
 terminalos-sim 2024
 teslacam-browser 2020
-tesler 2023
 textnote 2023
 textosaurus 2019
 the-way 2024
@@ -948,10 +924,8 @@ unreel 2018
 unveil 2020
 unyo 2024
 updatedeployqt 2019
-upgit 2024
 upnotes 2022
 uwufetch 2023
-v2ray-desktop 2022
 vcloudcam 2023
 vechain 2022
 verto 2019
@@ -1007,9 +981,7 @@ wonderwall 2022
 wootility 2024
 wooting-analog-midi 2022
 wootomation 2024
-wournal 2024
 wrapbox 2019
-wsjtz 2023
 wsocks 2019
 wxmaxima 2023
 wxmedit 2021
@@ -1043,6 +1015,5 @@ zenroomstudio 2018
 zfxtop 2023
 znax 2023
 zograscope 2023
-zx-poly 2024
 zxinfo-file-browser 2024
 zy-player 2022

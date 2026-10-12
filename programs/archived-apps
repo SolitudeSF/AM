@@ -9,6 +9,7 @@ aniship
 ant-downloader
 app-outlet
 ark.desktop.wallet
+astroffers
 authy
 axolotl
 barnacal
@@ -31,6 +32,7 @@ code-notes
 comic-reader
 consoleworkbench
 cordlauncher
+cpu-x
 crypter
 cryptr
 dashy-app
@@ -57,6 +59,7 @@ file-to-c
 filebrowser
 fishing-funds
 fontlet
+frappebooks
 freeman
 freezer
 friction
@@ -89,6 +92,7 @@ jscad-desktop
 kage
 kaidan
 kanji-dojo
+keepkey-desktop
 kiku
 launcher
 lba2-classic-community
@@ -116,7 +120,6 @@ moderndeck
 mr.dclutterer
 musicalypse
 n3h
-nautune
 netbeans
 nexen
 nexus-mods
@@ -170,7 +173,6 @@ shadowsocks
 silex-desktop
 singlebox
 skype
-slacktronic
 snippetstore
 software-challenge-gui
 sonixd
@@ -218,3 +220,4 @@ yolx
 zapdesktop
 zapzap-enhanced
 zmninja
+zoom
